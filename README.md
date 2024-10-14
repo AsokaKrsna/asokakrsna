@@ -18,7 +18,7 @@
 
 <br clear="both">
 
-<p align="left">A passionate cybersecurity researcher and aspiring SOC Analyst. My work revolves around cyber defense, threat detection, and educating others about the latest in the security field. <br><br>Portfolio - asokakrsna.github.io</p>
+<p align="left">A passionate cybersecurity researcher and aspiring SOC Analyst. My work revolves around cyber defense, threat detection, and educating others about the latest in the security field. <br><br>Portfolio - <a href="https://asokakrsna.github.io/" target="_blank">asokakrsna.github.io</a></a></p>
 
 ###
 
