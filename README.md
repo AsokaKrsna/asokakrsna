@@ -4,13 +4,9 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="center">SOC Analyst | Defensive Security Researcher</h2>
 
 ###
-
-<br clear="both">
 
 <h3 align="left">👨‍💻 About Me:</h3>
 
