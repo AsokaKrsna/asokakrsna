@@ -15,44 +15,28 @@
 <h3 align="left">👨‍💻 About Me:</h3>
 
 ###
-
-<br clear="both">
-
 <p align="left">A passionate cybersecurity researcher and aspiring SOC Analyst. My work revolves around cyber defense, threat detection, and educating others about the latest in the security field. <br><br>Portfolio - <a href="https://asokakrsna.github.io/" target="_blank">asokakrsna.github.io</a></a></p>
 
 ###
-
-<br clear="both">
-
 <h3 align="left">🚀 Quick Facts:</h3>
 
 ###
-
-<br clear="both">
 
 <p align="left">🔍 Ranked in the top 1% globally on TryHackMe<br>🏆 Finalist in Smart India Hackathon 2023 and KAVACH 2023<br>🌟 Recognized as LinkedIn's Cybersecurity Community Top Voice<br>📚 SII (Study In India) Scholar and Independent Learner at KL University<br>💼 Currently interning as a Security Engineer at AJM Artificial</p>
 
 ###
 
-<br clear="both">
-
 <h3 align="left">🚀 Experience</h3>
 
 ###
-
-<br clear="both">
 
 <p align="left">🛡️ Security Engineer (Intern) at AJM Artificial (Jul 2024 - Present)<br>👨‍🏫 Student Peer Mentor & Teaching Assistant at KL University (Apr 2022 - Apr 2024)<br>🧠 Research Advisor, White Hat Hackers Club at KL University (Jun 2024 - Present)<br>💻 Technical Chair, White Hat Hackers Club at KL University (Feb 2024 - May 2024)</p>
 
 ###
 
-<br clear="both">
-
 <h2 align="left">📫 How to reach me</h2>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/durjoy-majumdar/" target="_blank">
